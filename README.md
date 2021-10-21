@@ -1,2 +1,2 @@
-# GRIP4task2
+# GRIP
 GRIP
